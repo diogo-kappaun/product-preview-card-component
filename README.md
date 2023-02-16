@@ -1,4 +1,4 @@
-<img src="design/mockup.jpg">
+<img src="./screenshots/tablet_laptop_and_smartphone_mockup.jpg">
 
 <h1 align="center">
   🔥 Product Preview Card Component
