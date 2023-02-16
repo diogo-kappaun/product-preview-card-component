@@ -73,6 +73,7 @@ button {
 h1 {
   font: 700 2rem/2rem 'Fraunces', sans-serif;
   color: var(--very-dark-blue);
+  margin-bottom: 1.5rem;
 }
 
 h2 {
@@ -85,11 +86,13 @@ h3 {
   letter-spacing: .3125rem;
   text-transform: uppercase;
   color: var(--dark-grayish-blue);
+  margin-bottom: 1.25rem;
 }
 
 p {
   font: 500 .875rem/1.4375rem 'Montserrat', sans-serif;
   color: var(--dark-grayish-blue);
+  margin-bottom: 1.8125rem;
 }
 
 strong {
@@ -137,41 +140,21 @@ body {
   background-color: var(--white);
 }
 
-picture,
-.image-product,
-.image-product {
+.imagem-produto {
   width: 100%;
   height: 100%;
+  border-radius: .625rem 0 0 .625rem;
   object-fit: cover;
 }
 
-.image-product {
-  border-radius: .625rem 0 0 .625rem;
-}
-
-.product-info .product-price {
-  display: flex;
-  align-items: center;
-  gap: 1.1875rem;
-}
-
-.product-info {
+.info-produto {
   padding: 2rem;
 } 
 
-.product-info h3 {
-  margin-bottom: 1.25rem;
-}
-
-.product-info h1 {
-  margin-bottom: 1.5rem;
-}
-
-.product-info p {
-  margin-bottom: 1.8125rem;
-}
-
-.product-info .product-price {
+.info-produto .preco-produto {
+  display: flex;
+  align-items: center;
+  gap: 1.1875rem;
   margin-bottom: 1.875rem;
 }
 
@@ -182,11 +165,11 @@ picture,
     width: 21.4375rem;
   }
 
-  .image-product {
+  .imagem-produto {
     border-radius: .625rem .625rem 0 0;
   }
 
-  .product-info {
+  .info-produto {
     padding: 1.5rem;
   }
 
@@ -194,19 +177,19 @@ picture,
     padding: .9375rem 5.75rem;
   }
 
-  .product-info h3 {
+  h3 {
     margin-bottom: .75rem;
   }
 
-  .product-info h1 {
+  h1 {
     margin-bottom: 1rem;
   }
   
-  .product-info p {
+  p {
     margin-bottom: 1.5rem;
   }
   
-  .product-info .product-price {
+  .product-price {
     margin-bottom: 1.25rem;
   }
 }
