@@ -8,10 +8,10 @@
 
 <div align="center">
 
-  ![Badge](https://img.shields.io/github/last-commit/diogo-kappaun/qr-code-component)
-  ![Badge](https://img.shields.io/github/license/diogo-kappaun/qr-code-component)
-  ![Badge](https://img.shields.io/github/languages/code-size/diogo-kappaun/qr-code-component)
-  ![Badge](https://img.shields.io/github/stars/diogo-kappaun/qr-code-component?style=social)
+  ![Badge](https://img.shields.io/github/last-commit/diogo-kappaun/product-preview-card-component)
+  ![Badge](https://img.shields.io/github/license/diogo-kappaun/product-preview-card-component)
+  ![Badge](https://img.shields.io/github/languages/code-size/diogo-kappaun/product-preview-card-component)
+  ![Badge](https://img.shields.io/github/stars/diogo-kappaun/product-preview-card-component?style=social)
 
 </div>
 
@@ -23,13 +23,12 @@
 </p>
 
 <h4 align="center" id="status"> 
-	🚧  QR Code Component 🚀 Pronto...  🚧
+	Product Preview Card Component 🚀 Pronto...
 </h4>
 
 <h3 id="features"> 📝 Features</h3>
 
-- [x] Exposição de QR Code
-- [ ] Geração de QR Code
+- [x] Exposição de Produtos 
 
 <h3 id="tecnologias">⚒️ Tecnologias </h3>
 
@@ -39,7 +38,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 <h3 id="autor">🧔 Autor</h3>
-
 
  <img src="https://avatars.githubusercontent.com/u/115656394?v=4" width="100px;" alt=""/>
  <sub><h3 style="margin: 0;">Diogo Kappaun 🚀</h3></sub>
